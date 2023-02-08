@@ -1,2 +1,6 @@
-#!/bin/bash 
+#!/bin/bash
 echo "school"
+_EaOF_
+
+#!/bin/bash
+echo "school"_EOF_
